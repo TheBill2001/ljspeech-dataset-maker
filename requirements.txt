@@ -1,0 +1,5 @@
+numpy==1.26.4
+pydub==0.25.1
+Resemblyzer==0.1.4
+SpeechRecognition==3.10.4
+tqdm==4.66.4
