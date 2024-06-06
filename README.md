@@ -1,6 +1,6 @@
 # Simple LJSpeech Dataset Maker
 
-This is a simple LJSpeech Dataset Maker, based on [LJSpeechTools](https://github.com/lalalune/LJSpeechTools). It splits and transcribe the inputs WAV files. Underthehood, it uses Google Speech Recognition for transcriping.
+This is a simple LJSpeech Dataset Maker, based on [LJSpeechTools](https://github.com/lalalune/LJSpeechTools). It splits and transcribes the inputs WAV files. Underthehood, it uses Google Speech Recognition for transcriping. Single speaker only.
 
 ## Usage
 
